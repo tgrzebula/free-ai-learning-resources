@@ -72,3 +72,9 @@ https://missing.csail.mit.edu/2026/
 ### New Anthropic courses 
 - https://anthropic.skilljar.com/
 - including Claude Code
+
+### Free cources from Microsoft:
+- https://github.com/microsoft/ai-agents-for-beginners
+- https://github.com/microsoft/generative-ai-for-beginners
+
+
