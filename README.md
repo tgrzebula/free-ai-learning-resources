@@ -1,5 +1,7 @@
 # useful-tech-notes
 
+### Curated by **Tomasz Grzebuła**
+
 There are many completely free resources from top universities.
 
 AI > Machine Learning > Deep Learning > Large Language Model
@@ -95,3 +97,7 @@ AI > Machine Learning > Deep Learning > Large Language Model
 - **General AI Assistants:** ChatGPT, Claude, Gemini, Microsoft 365 Copilot
 - **AI Tools:** NotebookLM, Claude Cowork
 - **Techniques:** Prompt Engineering, RAG, Model fine-tuning
+
+---
+
+*Curated and maintained by [Tomasz Grzebuła](https://github.com/tgrzebula).*
