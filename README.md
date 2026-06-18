@@ -21,6 +21,7 @@ There are many completely free resources from top universities.
 - [Lectures on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
 
 ### MGMT298D: Science and Strategy of Artificial Intelligence (UCLA Anderson, Spring 2026)
+- [Course Website](https://ucla-anderson-ssai.github.io/SSAI/)
 - 10 week MBA. 3 ML + 4 DL + 3 Building LLM Apps
 - For non-technical students, but includes some technical tasks
 - Lack of video lectures
