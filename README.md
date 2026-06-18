@@ -1,7 +1,5 @@
 # useful-tech-notes
 
-### Curated by **Tomasz Grzebuła**
-
 There are many completely free resources from top universities.
 
 AI > Machine Learning > Deep Learning > Large Language Model
