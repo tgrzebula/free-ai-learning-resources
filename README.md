@@ -1,9 +1,6 @@
 # useful-tech-notes
 
-> [!NOTE]
-> **Fresh & Modern:** This collection is curated to feature the latest cutting-edge courses and lectures, mostly updated for **2025/2026**, focusing on modern architectures, Large Language Models (LLMs), and Agentic workflows.
-
-There are many completely free resources from top universities.
+A curated collection of completely free, up-to-date resources and courses (mostly updated for **2025/2026**) from top universities, focusing on AI, Large Language Models (LLMs), and Agentic workflows.
 
 ---
 
