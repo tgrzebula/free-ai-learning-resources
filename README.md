@@ -1,8 +1,9 @@
 # useful-tech-notes
 
-There are many completely free resources from top universities.
+> [!NOTE]
+> **Fresh & Modern:** This collection is curated to feature the latest cutting-edge courses and lectures—mostly updated for **2025/2026**—focusing on modern architectures, Large Language Models (LLMs), and Agentic workflows.
 
-AI > Machine Learning > Deep Learning > Large Language Model
+There are many completely free resources from top universities.
 
 ---
 
@@ -15,9 +16,6 @@ AI > Machine Learning > Deep Learning > Large Language Model
 - The lectures are from 2020, but the general AI topics are still up to date.
 - 7 lectures (about 2 hours each) + 12 Python projects
 
-### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
-- [Lecture Video & Materials](https://cs50.harvard.edu/x/weeks/ai/)
-
 ### CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
 - [Course Website](https://stanford-cs221.github.io/autumn2025/)
 - [Lectures on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
@@ -26,6 +24,9 @@ AI > Machine Learning > Deep Learning > Large Language Model
 - 10 week MBA. 3 ML + 4 DL + 3 Building LLM Apps
 - For non-technical students, but includes some technical tasks
 - Lack of video lectures
+
+### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
+- [Lecture Video & Materials](https://cs50.harvard.edu/x/weeks/ai/)
 
 ---
 
@@ -89,6 +90,7 @@ AI > Machine Learning > Deep Learning > Large Language Model
 ---
 
 ## Topics:
+- AI > Machine Learning > Deep Learning > Large Language Model
 - **Deep Learning Frameworks:** TensorFlow, PyTorch
 - **LLM Development:** LLM APIs, LangChain, RAG
 - **AI Coding Tools:** Claude Code, Antigravity 2.0, Codex, Cursor, GitHub Copilot
