@@ -4,82 +4,94 @@ There are many completely free resources from top universities.
 
 AI > Machine Learning > Deep Learning > Large Languge Model
 
+---
+
 ## AI
+
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
-https://cs50.harvard.edu/ai/
-- Topics: core ideas behind modern AI (search, knowledge, uncertainty, optimization, learning, neural networks, language)
+- [Course Website](https://cs50.harvard.edu/ai/)
+- **Topics:** core ideas behind modern AI (search, knowledge, uncertainty, optimization, learning, neural networks, language)
 - Use the link above for free lessons and certification. A Google search result will usually redirect you to edX, where there are some limitations and the certificate is paid.
 - The lectures are from 2020, but the general AI topics are still up to date.
 - 7 lectures (about 2 hours each) + 12 Python projects
 
 ### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
-https://cs50.harvard.edu/x/weeks/ai/
+- [Lecture Video & Materials](https://cs50.harvard.edu/x/weeks/ai/)
 
-###  CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
-- https://stanford-cs221.github.io/autumn2025/
-- [Lectures at youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
+### CS221: Artificial Intelligence: Principles and Techniques (Stanford, Autumn 2025)
+- [Course Website](https://stanford-cs221.github.io/autumn2025/)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN)
 
 ### MGMT298D: Science and Strategy of Artificial Intelligence (UCLA Anderson, Spring 2026)
 - 10 week MBA. 3 ML + 4 DL + 3 Building LLM Apps
-- for a non-technical, but includes some/many technical tasks
-- lack of video lectures
+- For non-technical students, but includes some technical tasks
+- Lack of video lectures
 
+---
 
 ## Deep Learning
+
 ### 6.S191 Introduction to Deep Learning (MIT, 2026)
-- https://introtodeeplearning.com/
+- [Course Website](https://introtodeeplearning.com/)
 - 9 Lectures, 3 Labs
 
 ### 15.773 Hands-on Deep Learning (MIT, Spring 2024)
-- https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/
+- [MIT OpenCourseWare Link](https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/)
 - 11 lectures, 2 homeworks
-- Sloan School of Management,
-- emphasis on connecting new technology to sources of business value.
+- Sloan School of Management
+- Emphasis on connecting new technology to sources of business value.
+
+---
 
 ## AI Engineering
+
 ### Agentic AI MOOC (Berkeley Fall 2025)
-- https://agenticai-learning.org/
-- more cources, including historical: https://rdi.berkeley.edu/education
+- [Course Website](https://agenticai-learning.org/)
+- [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
+
+---
 
 ## LLM Usage and Intro
+
 ### How I use LLMs - Andrej Karpathy (Feb 2025)
-- 2h [youtube](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- [Andrej Karpathy Video (2h)](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 - The best introduction on practical usage of AI.
 
 ### Intro to Large Language Models - Andrej Karpathy (Nov 2023)
-- 1 hour [youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- general-audience introduction to Large Language Models with technical details
+- [Andrej Karpathy Video (1h)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- General-audience introduction to Large Language Models with technical details
 
--------------------------
+---
+
+## CS Core & Tooling
+
 ### The Missing Semester of Your CS Education (MIT, 2026)
-https://missing.csail.mit.edu/2026/
-- Topics: shell, Git, automation, agentic coding
+- [Course Website](https://missing.csail.mit.edu/2026/)
+- **Topics:** shell, Git, automation, agentic coding
 - Shell is mainly for Linux and macOS. For Windows, WSL is recommended rather than PowerShell.
 - 9 lectures with exercises
 - The ["Agentic Coding"](https://missing.csail.mit.edu/2026/agentic-coding/) lecture is very interesting.
 
-
 ### New Anthropic courses 
-- https://anthropic.skilljar.com/
-- including Claude Code
+- [Anthropic Skilljar Portal](https://anthropic.skilljar.com/)
+- Including Claude Code tutorials
 
-### Free cources from Microsoft:
-- https://github.com/microsoft/ai-agents-for-beginners
-- https://github.com/microsoft/generative-ai-for-beginners
+### Free courses from Microsoft:
+- [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
 ### Vibe Coding & Agentic AI:
 - [5-Day AI Agents Intensive Vibe Coding Course with Google](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google)
-- very intensive
-- every day: whitepaper, tasks in codelabs, 1h live seesion 
-- codelabs connected mainly to usage Antigravity 2.0 - new Google Agentic tool
+- Very intensive
+- Every day: whitepaper, tasks in codelabs, 1h live session
+- Codelabs connected mainly to usage of Antigravity 2.0 - new Google Agentic tool
 
+---
 
-### Topics:
-- Deep Learning Frameworks: TensorFlow, PyTorch
-- LLM Development: LLM APIs, LangChain, RAG
-- AI Coding Tools: Claude Code, Antygravity 2.0, Codex, Cursor, GitHub Copilot
-- General AI Assistants: ChatGPT, Claude, Gemini, Microsoft 365 Copilot
-- AI Tools: NotebookLM, Claude Cowork
-
--------------
-- Prompt Engineering, RAG, Model fine-tuning
+### Topics Covered & Tools:
+- **Deep Learning Frameworks:** TensorFlow, PyTorch
+- **LLM Development:** LLM APIs, LangChain, RAG
+- **AI Coding Tools:** Claude Code, Antygravity 2.0, Codex, Cursor, GitHub Copilot
+- **General AI Assistants:** ChatGPT, Claude, Gemini, Microsoft 365 Copilot
+- **AI Tools:** NotebookLM, Claude Cowork
+- **Techniques:** Prompt Engineering, RAG, Model fine-tuning
