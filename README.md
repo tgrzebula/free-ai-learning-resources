@@ -88,11 +88,11 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ### CS146S: The Modern Software Developer (Stanford, Fall 2026) ⭐
 - [Course Website](https://themodernsoftware.dev/)
-- Fall 2025 edition (complete, but ~85% of the material changed in 2026): [Course Website](https://themodernsoftware.dev/fall2025) · [8 assignments](https://github.com/mihail911/modern-software-dev-assignments/tree/fall2025)
 - **Topics:** internals of coding agents, context engineering, spec-driven development, MCP, agent skills and CLI, agent-ready codebases, agentic code review, security, background agents, AI-native teams, the software factory
 - 10 weeks, slides and readings available
 - 6 [assignments](https://github.com/mihail911/modern-software-dev-assignments)
 - **Lack of video** lectures
+- Previous edition (Fall 2025, complete, but ~85% of the material changed in 2026): [Course Website](https://themodernsoftware.dev/fall2025) · [8 assignments](https://github.com/mihail911/modern-software-dev-assignments/tree/fall2025)
 
 
 ---
