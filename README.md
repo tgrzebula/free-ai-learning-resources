@@ -3,8 +3,8 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 ---
 
 ## ⭐ Top picks
-- **[CS146S: The Modern Software Developer (Stanford, Fall 2026)](https://themodernsoftware.dev/)** - how to build software with coding agents
-- **[11-768: AI Agents (CMU, Fall 2026)](https://www.cmu-agents.com/)** - how to build AI agents
+- **[CS146S: The Modern Software Developer (Stanford, Fall 2026)](https://themodernsoftware.dev/)** - how to build software with **coding agents**
+- **[11-768: AI Agents (CMU, Fall 2026)](https://www.cmu-agents.com/)** - how to build **AI agents**
 
 ---
 
@@ -75,6 +75,13 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 ### Agentic AI MOOC (Berkeley Fall 2025)
 - [Course Website](https://agenticai-learning.org/)
 - [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
+
+### CS329Z: Engineering AI Agents (Stanford, Fall 2026)
+- [Course Website](https://cs329z.stanford.edu/)
+- **Topics:** LLMs for builders, RAG, tool use and function calling, agent frameworks and design patterns, memory architectures, multi-agent systems, optimization, data for agentic systems, evaluation and benchmark design, LLM-as-judge, agent safety and guardrails, coding agents, proactive agents
+- 19 lectures, 2 assignments + quarter-long project
+- Slides available
+- **Lack of video** lectures
 
 
 ## Agentic Coding / Agentic Software Engineering
