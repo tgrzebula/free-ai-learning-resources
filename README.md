@@ -40,11 +40,29 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ---
 
-## AI Engineering
+## LLMs
+
+### CME295: Transformers & Large Language Models (Stanford, Autumn 2026)
+- [Course Website](https://cme295.stanford.edu/)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLakGfbKCei80) - ongoing
+- [Autumn 2025 lectures (complete)](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+- **Topics:** Transformers, LLMs, LLM training, reinforcement learning with LLMs, LLM systems, AI agents, LLM evaluation, diffusion LLMs, trending topics
+- 9 lectures, no homework (midterm + final exam only)
+
+### 10-202: Introduction to Modern AI (CMU, Spring 2026)
+- [Course Website](https://modernaicourse.org/)
+- [Lectures on YouTube](https://www.youtube.com/@modernaicourse)
+- **Topics:** supervised learning, PyTorch, neural networks, self-attention, Transformers, KV caching, tokenization, LLM training, post-training and chat tuning, reinforcement learning, RLHF and reasoning models, AI safety
+- 24 lectures (19 with video; AI safety and AGI lectures not published), 8 homeworks (from training a linear model to implementing a minimal LLM)
+- Free online version with autograded homeworks (Colab or marimo notebooks)
+
+---
+
+## AI Agents
 
 ### 11-768: AI Agents (CMU, Fall 2026)
 - [Course Website](https://www.cmu-agents.com/)
-- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) - recordings are published as the semester progresses
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) - ongoing
 - **Topics:** tool use, context management, skills and memory, planning and multi-agent coordination, coding agents, computer use agents, deep research agents, SFT and reinforcement learning, agent safety and monitoring, frameworks (OpenHands, LangGraph), human-agent interaction, search (critic models, tree search)
 - 23 lectures (including guest lectures), 3 assignments + team research project
 
@@ -52,10 +70,14 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - [Course Website](https://agenticai-learning.org/)
 - [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
 
+
+## Agentic Coding / Agentic Software Engineering
+
 ### CS146S: The Modern Software Developer (Stanford, Fall 2026)
 - [Course Website](https://themodernsoftware.dev/)
 - **Topics:** internals of coding agents, context engineering, spec-driven development, MCP, agent skills and CLI, agent-ready codebases, agentic code review, security, background agents, AI-native teams, the software factory
-- 10 weeks, slides and lecture transcripts available
+- 10 weeks, slides available
+- 6 [assignments](https://github.com/mihail911/modern-software-dev-assignments) + 4 open-source contributions + final project
 - **Lack of video** lectures
 
 
