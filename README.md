@@ -2,6 +2,12 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ---
 
+## ⭐ Top picks
+- **[CS146S: The Modern Software Developer (Stanford, Fall 2026)](https://themodernsoftware.dev/)** - how to build software with coding agents
+- **[11-768: AI Agents (CMU, Fall 2026)](https://www.cmu-agents.com/)** - how to build AI agents
+
+---
+
 ## AI
 
 ### CS50’s Introduction to Artificial Intelligence with Python (Harvard, 2020)
@@ -60,7 +66,7 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ## AI Agents
 
-### 11-768: AI Agents (CMU, Fall 2026)
+### 11-768: AI Agents (CMU, Fall 2026) ⭐
 - [Course Website](https://www.cmu-agents.com/)
 - [Lectures on YouTube](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) - ongoing
 - **Topics:** tool use, context management, skills and memory, planning and multi-agent coordination, coding agents, computer use agents, deep research agents, SFT and reinforcement learning, agent safety and monitoring, frameworks (OpenHands, LangGraph), human-agent interaction, search (critic models, tree search)
@@ -73,11 +79,11 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ## Agentic Coding / Agentic Software Engineering
 
-### CS146S: The Modern Software Developer (Stanford, Fall 2026)
+### CS146S: The Modern Software Developer (Stanford, Fall 2026) ⭐
 - [Course Website](https://themodernsoftware.dev/)
 - **Topics:** internals of coding agents, context engineering, spec-driven development, MCP, agent skills and CLI, agent-ready codebases, agentic code review, security, background agents, AI-native teams, the software factory
-- 10 weeks, slides available
-- 6 [assignments](https://github.com/mihail911/modern-software-dev-assignments) + 4 open-source contributions + final project
+- 10 weeks, slides and readings available
+- 6 [assignments](https://github.com/mihail911/modern-software-dev-assignments)
 - **Lack of video** lectures
 
 
