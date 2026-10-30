@@ -42,9 +42,22 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ## AI Engineering
 
+### 11-768: AI Agents (CMU, Fall 2026)
+- [Course Website](https://www.cmu-agents.com/)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) - recordings are published as the semester progresses
+- **Topics:** tool use, context management, skills and memory, planning and multi-agent coordination, coding agents, computer use agents, deep research agents, SFT and reinforcement learning, agent safety and monitoring, frameworks (OpenHands, LangGraph), human-agent interaction, search (critic models, tree search)
+- 23 lectures (including guest lectures), 3 assignments + team research project
+
 ### Agentic AI MOOC (Berkeley Fall 2025)
 - [Course Website](https://agenticai-learning.org/)
 - [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
+
+### CS146S: The Modern Software Developer (Stanford, Fall 2026)
+- [Course Website](https://themodernsoftware.dev/)
+- **Topics:** internals of coding agents, context engineering, spec-driven development, MCP, agent skills and CLI, agent-ready codebases, agentic code review, security, background agents, AI-native teams, the software factory
+- 10 weeks, slides and lecture transcripts available
+- **Lack of video** lectures
+
 
 ---
 
