@@ -82,6 +82,8 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - 19 lectures, 2 assignments + quarter-long project
 - Slides available
 - **Lack of video** lectures
+- [Unofficial video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLVKEyLMx8AmU) - **Not the real lectures.** The videos were made privately, outside Stanford, with AI: an AI-generated script based on the public slides (without the actual lecture transcripts).
+- [unofficial notes on Notion](https://app.notion.com/p/Stanford-CS329Z-Engineering-AI-Agents-40bbeb410d4a81508326e66407927ed1)
 
 
 ## Agentic Coding / Agentic Software Engineering
