@@ -104,6 +104,16 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
 
 
+## AI Engineering
+
+### Machine Learning in Production / AI Engineering (CMU, Spring 2026)
+- [Course Website](https://mlip-cmu.github.io/s2026)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLDS2JMJnJzdmubSKnanmIwzr08cionWm_) - 24 lectures
+- **Topics:** turning prototypes into production systems with ML, LLMs and agents: risk and safety, testing ML pipelines, deployment and monitoring, A/B tests and canary releases, data quality and drift, scaling, versioning and reproducibility, technical debt, LLMs, RAG and agents (incl. MCP)
+- Free [book](https://mlip-cmu.github.io/book/)
+- 4 assignments, 11 labs + team project
+
+
 ## Agentic Coding / Agentic Software Engineering
 
 ### CS146S: The Modern Software Developer (Stanford, Fall 2026) ⭐
