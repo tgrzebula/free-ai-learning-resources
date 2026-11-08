@@ -44,6 +44,14 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - Sloan School of Management
 - Emphasis on connecting new technology to sources of business value.
 
+### CS230: Deep Learning (Stanford, Autumn 2025)
+- [Course Website](https://cs230.stanford.edu/)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) - newer than the Fall 2018 videos linked on the course website
+- Taught by Andrew Ng and others
+- **Topics:** neural networks, CNNs, RNNs, supervised and self-supervised learning, adversarial robustness, generative models, deep reinforcement learning, AI project strategy
+- 9 lectures
+- Especially interesting: [Lecture 8 (Agents, Prompts, and RAG)](https://www.youtube.com/watch?v=k1njvbBmfsw) and [Lecture 9 (Career Advice in AI)](https://www.youtube.com/watch?v=AuZoDsNmG_s)
+
 ---
 
 ## LLMs
@@ -69,21 +77,31 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 ### 11-768: AI Agents (CMU, Fall 2026) ⭐
 - [Course Website](https://www.cmu-agents.com/)
 - [Lectures on YouTube](https://www.youtube.com/playlist?list=PLSN0qpDfUvTM) - ongoing
+- Co-taught by an OpenHands co-founder
 - **Topics:** tool use, context management, skills and memory, planning and multi-agent coordination, coding agents, computer use agents, deep research agents, SFT and reinforcement learning, agent safety and monitoring, frameworks (OpenHands, LangGraph), human-agent interaction, search (critic models, tree search)
 - 23 lectures (including guest lectures), 3 assignments + team research project
+
+### CS329Z: Engineering AI Agents (Stanford, Fall 2026)
+- [Course Website](https://cs329z.stanford.edu/)
+- Co-taught by a SWE-bench co-creator and a DSPy core contributor
+- **Topics:** LLMs for builders, RAG, tool use and function calling, agent frameworks and design patterns, memory architectures, multi-agent systems, optimization, data for agentic systems, evaluation and benchmark design, LLM-as-judge, agent safety and guardrails, coding agents, proactive agents
+- 19 lectures, 2 assignments + project
+- Slides available
+- **Lack of video** lectures
+- [Unofficial AI-generated video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLVKEyLMx8AmU) - **Not the real lectures**, only AI narration of the public slides
+- [Unofficial notes on Notion](https://app.notion.com/p/Stanford-CS329Z-Engineering-AI-Agents-40bbeb410d4a81508326e66407927ed1)
+
+### CS2680: Modern AI Systems: Agents and System Optimizations (Harvard, Fall 2026)
+- [Course Website](https://cs2680.seas.harvard.edu/)
+- **Topics:** how Claude Code works, multi-agent workflows, agent design (context and tools, multi-agent architecture, memory and reliability, evaluation), cost and performance, agent safety, LLM serving (batching, speculative decoding, prefix caching, KV-cache, quantization, routing)
+- 25 sessions, 5 assignments (from a web UI for Claude Code to serving and optimizing your own agent) + final project
+- Slides available
+- **Lack of video** lectures
+- [Unofficial AI-generated video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLCGg5We_BF7w) - **Not the real lectures**, only AI narration of the public slides
 
 ### Agentic AI MOOC (Berkeley Fall 2025)
 - [Course Website](https://agenticai-learning.org/)
 - [More Berkeley RDI Courses](https://rdi.berkeley.edu/education)
-
-### CS329Z: Engineering AI Agents (Stanford, Fall 2026)
-- [Course Website](https://cs329z.stanford.edu/)
-- **Topics:** LLMs for builders, RAG, tool use and function calling, agent frameworks and design patterns, memory architectures, multi-agent systems, optimization, data for agentic systems, evaluation and benchmark design, LLM-as-judge, agent safety and guardrails, coding agents, proactive agents
-- 19 lectures, 2 assignments + quarter-long project
-- Slides available
-- **Lack of video** lectures
-- [Unofficial video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLVKEyLMx8AmU) - **Not the real lectures.** The videos were made privately, outside Stanford, with AI: an AI-generated script based on the public slides (without the actual lecture transcripts).
-- [unofficial notes on Notion](https://app.notion.com/p/Stanford-CS329Z-Engineering-AI-Agents-40bbeb410d4a81508326e66407927ed1)
 
 
 ## Agentic Coding / Agentic Software Engineering
@@ -94,6 +112,8 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - 10 weeks, slides and readings available
 - 6 [assignments](https://github.com/mihail911/modern-software-dev-assignments)
 - **Lack of video** lectures
+- Fall 2026 guest lecture: [How always-on agents work (Lee Robinson)](https://www.youtube.com/watch?v=L1OBRtfPS34)
+- [Interview with the instructor](https://www.youtube.com/watch?v=wEsjK3Smovw) - course philosophy
 - Previous edition (Fall 2025, complete, but ~85% of the material changed in 2026): [Course Website](https://themodernsoftware.dev/fall2025) · [8 assignments](https://github.com/mihail911/modern-software-dev-assignments/tree/fall2025)
 
 
