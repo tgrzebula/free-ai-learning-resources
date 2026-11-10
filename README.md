@@ -83,12 +83,11 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ### CS329Z: Engineering AI Agents (Stanford, Fall 2026)
 - [Course Website](https://cs329z.stanford.edu/)
+- [Lectures on YouTube](https://www.youtube.com/playlist?list=PLPRcF5HR02_U) - ongoing (lecture 1 published on 2026-11-10)
 - Co-taught by a SWE-bench co-creator and a DSPy core contributor
 - **Topics:** LLMs for builders, RAG, tool use and function calling, agent frameworks and design patterns, memory architectures, multi-agent systems, optimization, data for agentic systems, evaluation and benchmark design, LLM-as-judge, agent safety and guardrails, coding agents, proactive agents
 - 19 lectures, 2 assignments + project
-- Slides available
-- **Lack of video** lectures
-- [Unofficial AI-generated video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLVKEyLMx8AmU) - **Not the real lectures**, only AI narration of the public slides
+- [Unofficial AI-generated video walkthroughs on YouTube](https://www.youtube.com/playlist?list=PLVKEyLMx8AmU) - **Not the real lectures**, only AI narration of the public slides; a stopgap while the official playlist fills up
 - [Unofficial notes on Notion](https://app.notion.com/p/Stanford-CS329Z-Engineering-AI-Agents-40bbeb410d4a81508326e66407927ed1)
 
 ### CS2680: Modern AI Systems: Agents and System Optimizations (Harvard, Fall 2026)
