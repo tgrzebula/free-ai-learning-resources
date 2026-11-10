@@ -27,6 +27,11 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 - For non-technical students, but includes some technical tasks
 - **Lack of video** lectures
 
+### CS193T: Thinking with AI (Stanford, Autumn 2026)
+- [Course Website](https://web.stanford.edu/class/archive/cs/cs193t/cs193t.1272/)
+- [Lecture 1 on YouTube](https://www.youtube.com/watch?v=I7zvCSGMkoc) - ongoing
+- How to **use** AI tools effectively, for non-programmers: advanced prompting, agentic workflows, auditing AI output
+
 ### 1-hour Introduction to AI by Prof. Malan - part of CS50’s Introduction to Computer Science
 - [Lecture Video & Materials](https://cs50.harvard.edu/x/weeks/ai/)
 
