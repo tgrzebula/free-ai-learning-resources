@@ -133,6 +133,16 @@ A curated collection of completely **free**, **up-to-date** courses (mostly from
 
 ---
 
+## AI for Non-Programmers
+
+### CS193V: Effective Vibecoding (Stanford, Autumn 2026)
+- [Course Website](https://cs193v.stanford.edu/)
+- How to **build** software purely with AI coding agents, for non-programmers
+- 13 lectures with slides: terminal, git, testing, web, deployment, API keys, databases, auth, teamwork, code quality
+- **Lack of video** lectures
+
+---
+
 ## Extra - CS Core & Tooling
 
 ### The Missing Semester of Your CS Education (MIT, 2026)
